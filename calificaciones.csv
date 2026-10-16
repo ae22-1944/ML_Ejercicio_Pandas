@@ -1,0 +1,1013 @@
+Matricula,Asignatura,Calificación1,Calificación2,Calificación3
+26-0001,Programación web,54,60,69
+26-0001,Matemática Discreta,61,61,70
+26-0001,Métodos estadísticos,48,59,47
+26-0001,Bases de Datos,64,65,85
+26-0001,Estructura de datos Y Algoritmos ,59,77,51
+26-0002,Programación web,86,82,86
+26-0002,Matemática Discreta,65,81,61
+26-0002,Métodos estadísticos,64,61,73
+26-0002,Bases de Datos,81,83,63
+26-0002,Estructura de datos Y Algoritmos ,60,70,72
+26-0003,Programación web,84,97,85
+26-0003,Matemática Discreta,100,82,93
+26-0003,Métodos estadísticos,75,89,77
+26-0003,Bases de Datos,86,90,100
+26-0003,Estructura de datos Y Algoritmos ,84,85,99
+26-0004,Programación web,82,69,76
+26-0004,Matemática Discreta,82,72,70
+26-0004,Métodos estadísticos,61,66,68
+26-0004,Bases de Datos,72,86,89
+26-0004,Estructura de datos Y Algoritmos ,68,69,57
+26-0005,Programación web,87,83,66
+26-0005,Matemática Discreta,70,69,80
+26-0005,Métodos estadísticos,62,74,85
+26-0005,Bases de Datos,79,80,99
+26-0005,Estructura de datos Y Algoritmos ,65,93,73
+26-0006,Programación web,88,88,91
+26-0006,Matemática Discreta,83,89,78
+26-0006,Métodos estadísticos,84,75,65
+26-0006,Bases de Datos,84,86,78
+26-0006,Estructura de datos Y Algoritmos ,85,89,84
+26-0007,Programación web,72,77,57
+26-0007,Matemática Discreta,80,65,64
+26-0007,Métodos estadísticos,68,47,59
+26-0007,Bases de Datos,57,60,60
+26-0007,Estructura de datos Y Algoritmos ,68,64,74
+26-0008,Programación web,46,45,57
+26-0008,Matemática Discreta,70,52,71
+26-0008,Métodos estadísticos,49,48,52
+26-0008,Bases de Datos,46,60,54
+26-0008,Estructura de datos Y Algoritmos ,63,57,57
+26-0009,Programación web,91,95,100
+26-0009,Matemática Discreta,100,100,96
+26-0009,Métodos estadísticos,71,98,70
+26-0009,Bases de Datos,96,100,100
+26-0009,Estructura de datos Y Algoritmos ,100,92,78
+26-0010,Programación web,67,76,85
+26-0010,Matemática Discreta,71,84,63
+26-0010,Métodos estadísticos,64,68,75
+26-0010,Bases de Datos,72,90,85
+26-0010,Estructura de datos Y Algoritmos ,79,63,62
+26-0011,Programación web,65,58,70
+26-0011,Matemática Discreta,66,55,58
+26-0011,Métodos estadísticos,65,55,45
+26-0011,Bases de Datos,71,52,57
+26-0011,Estructura de datos Y Algoritmos ,65,49,61
+26-0012,Programación web,100,75,87
+26-0012,Matemática Discreta,86,96,100
+26-0012,Métodos estadísticos,77,76,68
+26-0012,Bases de Datos,100,100,100
+26-0012,Estructura de datos Y Algoritmos ,76,98,93
+26-0013,Programación web,64,73,66
+26-0013,Matemática Discreta,69,84,77
+26-0013,Métodos estadísticos,68,62,76
+26-0013,Bases de Datos,89,73,78
+26-0013,Estructura de datos Y Algoritmos ,63,75,69
+26-0014,Programación web,78,72,63
+26-0014,Matemática Discreta,73,79,83
+26-0014,Métodos estadísticos,69,69,82
+26-0014,Bases de Datos,70,84,72
+26-0014,Estructura de datos Y Algoritmos ,57,72,79
+26-0015,Programación web,91,92,79
+26-0015,Matemática Discreta,85,100,78
+26-0015,Métodos estadísticos,87,90,78
+26-0015,Bases de Datos,87,100,94
+26-0015,Estructura de datos Y Algoritmos ,92,87,91
+26-0016,Programación web,73,64,55
+26-0016,Matemática Discreta,81,80,80
+26-0016,Métodos estadísticos,72,52,51
+26-0016,Bases de Datos,68,79,67
+26-0016,Estructura de datos Y Algoritmos ,72,61,70
+26-0017,Programación web,66,85,67
+26-0017,Matemática Discreta,76,66,69
+26-0017,Métodos estadísticos,75,79,56
+26-0017,Bases de Datos,94,68,68
+26-0017,Estructura de datos Y Algoritmos ,61,71,76
+26-0018,Programación web,52,39,48
+26-0018,Matemática Discreta,64,53,49
+26-0018,Métodos estadísticos,38,36,62
+26-0018,Bases de Datos,67,52,50
+26-0018,Estructura de datos Y Algoritmos ,58,39,53
+26-0019,Programación web,83,78,91
+26-0019,Matemática Discreta,96,92,91
+26-0019,Métodos estadísticos,62,64,77
+26-0019,Bases de Datos,89,95,71
+26-0019,Estructura de datos Y Algoritmos ,73,65,68
+26-0020,Programación web,66,72,67
+26-0020,Matemática Discreta,69,67,72
+26-0020,Métodos estadísticos,57,66,58
+26-0020,Bases de Datos,75,75,89
+26-0020,Estructura de datos Y Algoritmos ,56,57,79
+26-0021,Programación web,58,45,53
+26-0021,Matemática Discreta,62,59,55
+26-0021,Métodos estadísticos,49,44,50
+26-0021,Bases de Datos,49,55,51
+26-0021,Estructura de datos Y Algoritmos ,47,46,34
+26-0022,Programación web,79,69,71
+26-0022,Matemática Discreta,64,87,65
+26-0022,Métodos estadísticos,70,62,62
+26-0022,Bases de Datos,64,80,72
+26-0022,Estructura de datos Y Algoritmos ,74,80,62
+26-0023,Programación web,75,73,68
+26-0023,Matemática Discreta,68,83,77
+26-0023,Métodos estadísticos,78,79,63
+26-0023,Bases de Datos,75,72,85
+26-0023,Estructura de datos Y Algoritmos ,62,66,60
+26-0024,Programación web,46,52,58
+26-0024,Matemática Discreta,50,72,71
+26-0024,Métodos estadísticos,66,40,42
+26-0024,Bases de Datos,79,54,52
+26-0024,Estructura de datos Y Algoritmos ,44,61,72
+26-0025,Programación web,75,55,73
+26-0025,Matemática Discreta,73,56,58
+26-0025,Métodos estadísticos,48,45,48
+26-0025,Bases de Datos,57,79,74
+26-0025,Estructura de datos Y Algoritmos ,46,64,70
+26-0026,Programación web,83,58,86
+26-0026,Matemática Discreta,74,62,65
+26-0026,Métodos estadísticos,69,73,82
+26-0026,Bases de Datos,74,87,85
+26-0026,Estructura de datos Y Algoritmos ,79,83,78
+26-0027,Programación web,78,54,67
+26-0027,Matemática Discreta,65,73,79
+26-0027,Métodos estadísticos,50,63,60
+26-0027,Bases de Datos,75,84,83
+26-0027,Estructura de datos Y Algoritmos ,59,56,79
+26-0028,Programación web,80,88,97
+26-0028,Matemática Discreta,92,90,82
+26-0028,Métodos estadísticos,85,86,86
+26-0028,Bases de Datos,100,78,89
+26-0028,Estructura de datos Y Algoritmos ,92,90,75
+26-0029,Programación web,86,94,83
+26-0029,Matemática Discreta,86,100,98
+26-0029,Métodos estadísticos,95,75,94
+26-0029,Bases de Datos,93,88,92
+26-0029,Estructura de datos Y Algoritmos ,76,97,95
+26-0030,Programación web,47,52,49
+26-0030,Matemática Discreta,64,43,46
+26-0030,Métodos estadísticos,56,51,61
+26-0030,Bases de Datos,49,49,63
+26-0030,Estructura de datos Y Algoritmos ,45,55,40
+26-0031,Programación web,59,73,71
+26-0031,Matemática Discreta,82,81,72
+26-0031,Métodos estadísticos,59,55,54
+26-0031,Bases de Datos,81,79,65
+26-0031,Estructura de datos Y Algoritmos ,53,80,66
+26-0032,Programación web,97,96,85
+26-0032,Matemática Discreta,97,100,92
+26-0032,Métodos estadísticos,84,91,75
+26-0032,Bases de Datos,84,100,100
+26-0032,Estructura de datos Y Algoritmos ,90,83,95
+26-0033,Programación web,93,87,100
+26-0033,Matemática Discreta,85,78,77
+26-0033,Métodos estadísticos,98,71,88
+26-0033,Bases de Datos,100,96,93
+26-0033,Estructura de datos Y Algoritmos ,72,90,86
+26-0034,Programación web,74,67,64
+26-0034,Matemática Discreta,65,61,63
+26-0034,Métodos estadísticos,55,73,59
+26-0034,Bases de Datos,62,66,73
+26-0034,Estructura de datos Y Algoritmos ,67,64,71
+26-0035,Programación web,54,69,41
+26-0035,Matemática Discreta,57,69,63
+26-0035,Métodos estadísticos,45,36,35
+26-0035,Bases de Datos,59,71,64
+26-0035,Estructura de datos Y Algoritmos ,39,39,59
+26-0036,Programación web,57,55,72
+26-0036,Matemática Discreta,58,53,56
+26-0036,Métodos estadísticos,60,59,45
+26-0036,Bases de Datos,64,78,74
+26-0036,Estructura de datos Y Algoritmos ,48,67,48
+26-0037,Programación web,73,76,64
+26-0037,Matemática Discreta,56,61,50
+26-0037,Métodos estadísticos,56,60,50
+26-0037,Bases de Datos,82,57,66
+26-0037,Estructura de datos Y Algoritmos ,58,49,49
+26-0038,Programación web,82,82,79
+26-0038,Matemática Discreta,72,83,75
+26-0038,Métodos estadísticos,82,85,68
+26-0038,Bases de Datos,89,79,83
+26-0038,Estructura de datos Y Algoritmos ,82,82,74
+26-0039,Programación web,66,71,58
+26-0039,Matemática Discreta,51,61,63
+26-0039,Métodos estadísticos,66,50,53
+26-0039,Bases de Datos,65,73,54
+26-0039,Estructura de datos Y Algoritmos ,70,46,64
+26-0040,Programación web,81,71,90
+26-0040,Matemática Discreta,98,87,94
+26-0040,Métodos estadísticos,85,68,72
+26-0040,Bases de Datos,85,93,86
+26-0040,Estructura de datos Y Algoritmos ,77,84,73
+26-0041,Programación web,59,76,75
+26-0041,Matemática Discreta,72,76,71
+26-0041,Métodos estadísticos,57,72,62
+26-0041,Bases de Datos,88,74,60
+26-0041,Estructura de datos Y Algoritmos ,59,70,53
+26-0042,Programación web,55,52,49
+26-0042,Matemática Discreta,56,51,48
+26-0042,Métodos estadísticos,39,43,57
+26-0042,Bases de Datos,55,66,39
+26-0042,Estructura de datos Y Algoritmos ,33,56,51
+26-0043,Programación web,76,85,89
+26-0043,Matemática Discreta,98,87,85
+26-0043,Métodos estadísticos,66,86,75
+26-0043,Bases de Datos,100,76,76
+26-0043,Estructura de datos Y Algoritmos ,88,96,94
+26-0044,Programación web,68,62,41
+26-0044,Matemática Discreta,59,61,71
+26-0044,Métodos estadísticos,36,64,42
+26-0044,Bases de Datos,61,71,51
+26-0044,Estructura de datos Y Algoritmos ,67,42,58
+26-0045,Programación web,37,54,50
+26-0045,Matemática Discreta,40,40,55
+26-0045,Métodos estadísticos,52,55,35
+26-0045,Bases de Datos,58,54,46
+26-0045,Estructura de datos Y Algoritmos ,51,52,54
+26-0046,Programación web,100,90,84
+26-0046,Matemática Discreta,83,94,100
+26-0046,Métodos estadísticos,75,86,93
+26-0046,Bases de Datos,97,100,100
+26-0046,Estructura de datos Y Algoritmos ,81,90,100
+26-0047,Programación web,59,50,63
+26-0047,Matemática Discreta,47,51,49
+26-0047,Métodos estadísticos,45,36,61
+26-0047,Bases de Datos,43,64,43
+26-0047,Estructura de datos Y Algoritmos ,57,61,36
+26-0048,Programación web,86,83,82
+26-0048,Matemática Discreta,71,62,83
+26-0048,Métodos estadísticos,80,69,68
+26-0048,Bases de Datos,74,75,73
+26-0048,Estructura de datos Y Algoritmos ,75,78,58
+26-0049,Programación web,79,89,75
+26-0049,Matemática Discreta,70,71,92
+26-0049,Métodos estadísticos,75,75,85
+26-0049,Bases de Datos,100,77,79
+26-0049,Estructura de datos Y Algoritmos ,65,67,68
+26-0050,Programación web,96,72,92
+26-0050,Matemática Discreta,77,78,98
+26-0050,Métodos estadísticos,74,62,66
+26-0050,Bases de Datos,90,84,83
+26-0050,Estructura de datos Y Algoritmos ,90,83,82
+26-0051,Programación web,54,60,68
+26-0051,Matemática Discreta,85,71,59
+26-0051,Métodos estadísticos,65,70,67
+26-0051,Bases de Datos,74,87,86
+26-0051,Estructura de datos Y Algoritmos ,68,58,54
+26-0052,Programación web,83,97,73
+26-0052,Matemática Discreta,83,86,100
+26-0052,Métodos estadísticos,83,78,85
+26-0052,Bases de Datos,86,100,100
+26-0052,Estructura de datos Y Algoritmos ,99,89,96
+26-0053,Programación web,74,82,87
+26-0053,Matemática Discreta,92,79,93
+26-0053,Métodos estadísticos,71,74,89
+26-0053,Bases de Datos,82,100,94
+26-0053,Estructura de datos Y Algoritmos ,71,96,76
+26-0054,Programación web,100,93,74
+26-0054,Matemática Discreta,86,81,100
+26-0054,Métodos estadísticos,77,93,85
+26-0054,Bases de Datos,95,100,90
+26-0054,Estructura de datos Y Algoritmos ,82,91,77
+26-0055,Programación web,72,91,69
+26-0055,Matemática Discreta,96,88,71
+26-0055,Métodos estadísticos,73,86,59
+26-0055,Bases de Datos,77,74,93
+26-0055,Estructura de datos Y Algoritmos ,91,84,69
+26-0056,Programación web,52,58,69
+26-0056,Matemática Discreta,64,59,64
+26-0056,Métodos estadísticos,51,71,71
+26-0056,Bases de Datos,76,62,64
+26-0056,Estructura de datos Y Algoritmos ,64,48,67
+26-0057,Programación web,74,94,94
+26-0057,Matemática Discreta,79,76,99
+26-0057,Métodos estadísticos,86,68,85
+26-0057,Bases de Datos,92,74,99
+26-0057,Estructura de datos Y Algoritmos ,82,75,73
+26-0058,Programación web,40,47,45
+26-0058,Matemática Discreta,52,47,62
+26-0058,Métodos estadísticos,47,43,57
+26-0058,Bases de Datos,64,69,73
+26-0058,Estructura de datos Y Algoritmos ,60,61,55
+26-0059,Programación web,93,87,94
+26-0059,Matemática Discreta,85,100,100
+26-0059,Métodos estadísticos,73,73,64
+26-0059,Bases de Datos,82,76,77
+26-0059,Estructura de datos Y Algoritmos ,96,76,95
+26-0060,Programación web,63,49,50
+26-0060,Matemática Discreta,53,66,61
+26-0060,Métodos estadísticos,60,42,53
+26-0060,Bases de Datos,67,68,51
+26-0060,Estructura de datos Y Algoritmos ,58,63,55
+26-0061,Programación web,49,43,50
+26-0061,Matemática Discreta,39,49,38
+26-0061,Métodos estadísticos,53,50,58
+26-0061,Bases de Datos,46,57,45
+26-0061,Estructura de datos Y Algoritmos ,56,32,61
+26-0062,Programación web,70,66,73
+26-0062,Matemática Discreta,58,62,76
+26-0062,Métodos estadísticos,59,70,66
+26-0062,Bases de Datos,65,52,58
+26-0062,Estructura de datos Y Algoritmos ,52,56,72
+26-0063,Programación web,44,61,55
+26-0063,Matemática Discreta,64,56,46
+26-0063,Métodos estadísticos,44,57,54
+26-0063,Bases de Datos,70,59,51
+26-0063,Estructura de datos Y Algoritmos ,60,38,61
+26-0064,Programación web,67,72,90
+26-0064,Matemática Discreta,66,80,73
+26-0064,Métodos estadísticos,71,81,57
+26-0064,Bases de Datos,86,71,87
+26-0064,Estructura de datos Y Algoritmos ,85,67,61
+26-0065,Programación web,67,70,73
+26-0065,Matemática Discreta,83,59,61
+26-0065,Métodos estadísticos,66,53,63
+26-0065,Bases de Datos,81,72,79
+26-0065,Estructura de datos Y Algoritmos ,54,71,52
+26-0066,Programación web,60,79,60
+26-0066,Matemática Discreta,82,76,59
+26-0066,Métodos estadísticos,53,75,58
+26-0066,Bases de Datos,87,62,89
+26-0066,Estructura de datos Y Algoritmos ,69,59,75
+26-0067,Programación web,85,76,98
+26-0067,Matemática Discreta,98,100,100
+26-0067,Métodos estadísticos,82,86,86
+26-0067,Bases de Datos,100,100,87
+26-0067,Estructura de datos Y Algoritmos ,74,86,100
+26-0068,Programación web,74,92,76
+26-0068,Matemática Discreta,82,98,76
+26-0068,Métodos estadísticos,72,91,79
+26-0068,Bases de Datos,95,100,96
+26-0068,Estructura de datos Y Algoritmos ,81,75,80
+26-0069,Programación web,51,45,68
+26-0069,Matemática Discreta,50,43,46
+26-0069,Métodos estadísticos,39,52,37
+26-0069,Bases de Datos,64,51,75
+26-0069,Estructura de datos Y Algoritmos ,46,52,59
+26-0070,Programación web,48,67,73
+26-0070,Matemática Discreta,58,54,61
+26-0070,Métodos estadísticos,45,67,56
+26-0070,Bases de Datos,75,72,75
+26-0070,Estructura de datos Y Algoritmos ,46,71,58
+26-0071,Programación web,53,55,46
+26-0071,Matemática Discreta,49,65,56
+26-0071,Métodos estadísticos,47,64,41
+26-0071,Bases de Datos,64,52,51
+26-0071,Estructura de datos Y Algoritmos ,54,43,50
+26-0072,Programación web,89,72,79
+26-0072,Matemática Discreta,83,86,100
+26-0072,Métodos estadísticos,79,95,80
+26-0072,Bases de Datos,86,100,94
+26-0072,Estructura de datos Y Algoritmos ,75,75,77
+26-0073,Programación web,64,72,87
+26-0073,Matemática Discreta,75,87,79
+26-0073,Métodos estadísticos,62,74,60
+26-0073,Bases de Datos,67,65,82
+26-0073,Estructura de datos Y Algoritmos ,57,73,59
+26-0074,Programación web,71,70,62
+26-0074,Matemática Discreta,72,53,71
+26-0074,Métodos estadísticos,51,54,53
+26-0074,Bases de Datos,67,54,75
+26-0074,Estructura de datos Y Algoritmos ,71,64,47
+26-0075,Programación web,84,68,82
+26-0075,Matemática Discreta,78,70,72
+26-0075,Métodos estadísticos,69,78,72
+26-0075,Bases de Datos,88,84,78
+26-0075,Estructura de datos Y Algoritmos ,66,64,81
+26-0076,Programación web,78,86,94
+26-0076,Matemática Discreta,95,89,87
+26-0076,Métodos estadísticos,67,75,73
+26-0076,Bases de Datos,98,99,82
+26-0076,Estructura de datos Y Algoritmos ,81,71,95
+26-0077,Programación web,62,57,72
+26-0077,Matemática Discreta,64,76,74
+26-0077,Métodos estadísticos,55,69,46
+26-0077,Bases de Datos,53,53,71
+26-0077,Estructura de datos Y Algoritmos ,64,62,72
+26-0078,Programación web,83,72,70
+26-0078,Matemática Discreta,64,76,85
+26-0078,Métodos estadísticos,64,49,49
+26-0078,Bases de Datos,76,76,65
+26-0078,Estructura de datos Y Algoritmos ,59,76,72
+26-0079,Programación web,91,84,76
+26-0079,Matemática Discreta,94,81,71
+26-0079,Métodos estadísticos,87,80,79
+26-0079,Bases de Datos,79,93,82
+26-0079,Estructura de datos Y Algoritmos ,76,78,80
+26-0080,Programación web,73,61,65
+26-0080,Matemática Discreta,63,68,87
+26-0080,Métodos estadísticos,76,78,74
+26-0080,Bases de Datos,87,80,70
+26-0080,Estructura de datos Y Algoritmos ,62,74,63
+26-0081,Programación web,44,68,67
+26-0081,Matemática Discreta,55,57,50
+26-0081,Métodos estadísticos,40,59,36
+26-0081,Bases de Datos,56,51,56
+26-0081,Estructura de datos Y Algoritmos ,54,48,68
+26-0082,Programación web,84,78,100
+26-0082,Matemática Discreta,82,83,86
+26-0082,Métodos estadísticos,94,86,91
+26-0082,Bases de Datos,100,100,97
+26-0082,Estructura de datos Y Algoritmos ,91,73,92
+26-0083,Programación web,92,84,91
+26-0083,Matemática Discreta,79,100,100
+26-0083,Métodos estadísticos,82,94,95
+26-0083,Bases de Datos,100,100,80
+26-0083,Estructura de datos Y Algoritmos ,89,89,95
+26-0084,Programación web,75,77,82
+26-0084,Matemática Discreta,79,73,72
+26-0084,Métodos estadísticos,57,62,72
+26-0084,Bases de Datos,69,73,66
+26-0084,Estructura de datos Y Algoritmos ,68,64,59
+26-0085,Programación web,74,59,62
+26-0085,Matemática Discreta,64,54,61
+26-0085,Métodos estadísticos,46,43,54
+26-0085,Bases de Datos,59,73,54
+26-0085,Estructura de datos Y Algoritmos ,53,68,53
+26-0086,Programación web,70,55,59
+26-0086,Matemática Discreta,51,59,51
+26-0086,Métodos estadísticos,56,42,40
+26-0086,Bases de Datos,51,67,71
+26-0086,Estructura de datos Y Algoritmos ,62,43,60
+26-0087,Programación web,79,86,74
+26-0087,Matemática Discreta,79,89,78
+26-0087,Métodos estadísticos,70,92,97
+26-0087,Bases de Datos,89,90,93
+26-0087,Estructura de datos Y Algoritmos ,89,76,92
+26-0088,Programación web,91,98,96
+26-0088,Matemática Discreta,95,100,100
+26-0088,Métodos estadísticos,86,79,89
+26-0088,Bases de Datos,96,80,83
+26-0088,Estructura de datos Y Algoritmos ,98,88,80
+26-0089,Programación web,43,50,56
+26-0089,Matemática Discreta,50,66,47
+26-0089,Métodos estadísticos,47,53,63
+26-0089,Bases de Datos,49,50,62
+26-0089,Estructura de datos Y Algoritmos ,60,44,42
+26-0090,Programación web,73,96,100
+26-0090,Matemática Discreta,79,84,85
+26-0090,Métodos estadísticos,80,67,93
+26-0090,Bases de Datos,100,82,99
+26-0090,Estructura de datos Y Algoritmos ,83,73,86
+26-0091,Programación web,93,94,84
+26-0091,Matemática Discreta,71,68,68
+26-0091,Métodos estadísticos,85,63,83
+26-0091,Bases de Datos,95,70,72
+26-0091,Estructura de datos Y Algoritmos ,75,66,83
+26-0092,Programación web,63,53,48
+26-0092,Matemática Discreta,53,51,63
+26-0092,Métodos estadísticos,53,58,52
+26-0092,Bases de Datos,64,69,42
+26-0092,Estructura de datos Y Algoritmos ,54,37,52
+26-0093,Programación web,51,61,43
+26-0093,Matemática Discreta,64,63,68
+26-0093,Métodos estadísticos,47,64,61
+26-0093,Bases de Datos,72,61,74
+26-0093,Estructura de datos Y Algoritmos ,48,48,46
+26-0094,Programación web,82,74,92
+26-0094,Matemática Discreta,81,78,97
+26-0094,Métodos estadísticos,76,94,75
+26-0094,Bases de Datos,95,100,100
+26-0094,Estructura de datos Y Algoritmos ,75,86,86
+26-0095,Programación web,70,71,73
+26-0095,Matemática Discreta,77,86,76
+26-0095,Métodos estadísticos,60,73,66
+26-0095,Bases de Datos,83,83,74
+26-0095,Estructura de datos Y Algoritmos ,66,74,70
+26-0096,Programación web,58,56,67
+26-0096,Matemática Discreta,84,71,74
+26-0096,Métodos estadísticos,65,52,75
+26-0096,Bases de Datos,84,69,76
+26-0096,Estructura de datos Y Algoritmos ,81,77,63
+26-0097,Programación web,54,59,56
+26-0097,Matemática Discreta,71,81,69
+26-0097,Métodos estadísticos,58,55,51
+26-0097,Bases de Datos,63,72,61
+26-0097,Estructura de datos Y Algoritmos ,51,68,56
+26-0098,Programación web,68,81,68
+26-0098,Matemática Discreta,78,60,72
+26-0098,Métodos estadísticos,52,64,65
+26-0098,Bases de Datos,60,65,76
+26-0098,Estructura de datos Y Algoritmos ,58,77,79
+26-0099,Programación web,89,90,76
+26-0099,Matemática Discreta,79,91,95
+26-0099,Métodos estadísticos,66,87,79
+26-0099,Bases de Datos,92,94,85
+26-0099,Estructura de datos Y Algoritmos ,69,74,71
+26-0100,Programación web,84,100,100
+26-0100,Matemática Discreta,100,98,80
+26-0100,Métodos estadísticos,79,84,91
+26-0100,Bases de Datos,88,85,100
+26-0100,Estructura de datos Y Algoritmos ,88,75,76
+26-0101,Programación web,87,87,87
+26-0101,Matemática Discreta,87,83,74
+26-0101,Métodos estadísticos,78,85,81
+26-0101,Bases de Datos,92,98,73
+26-0101,Estructura de datos Y Algoritmos ,64,80,77
+26-0102,Programación web,93,92,92
+26-0102,Matemática Discreta,89,81,84
+26-0102,Métodos estadísticos,81,69,79
+26-0102,Bases de Datos,89,85,100
+26-0102,Estructura de datos Y Algoritmos ,84,74,84
+26-0103,Programación web,69,64,57
+26-0103,Matemática Discreta,82,81,78
+26-0103,Métodos estadísticos,47,65,57
+26-0103,Bases de Datos,62,63,86
+26-0103,Estructura de datos Y Algoritmos ,54,62,69
+26-0104,Programación web,75,84,89
+26-0104,Matemática Discreta,91,86,75
+26-0104,Métodos estadísticos,69,76,82
+26-0104,Bases de Datos,86,75,85
+26-0104,Estructura de datos Y Algoritmos ,61,66,74
+26-0105,Programación web,69,76,71
+26-0105,Matemática Discreta,71,98,84
+26-0105,Métodos estadísticos,81,68,90
+26-0105,Bases de Datos,87,98,73
+26-0105,Estructura de datos Y Algoritmos ,89,66,93
+26-0106,Programación web,38,51,45
+26-0106,Matemática Discreta,41,42,55
+26-0106,Métodos estadísticos,52,53,45
+26-0106,Bases de Datos,61,68,54
+26-0106,Estructura de datos Y Algoritmos ,55,40,59
+26-0107,Programación web,63,71,56
+26-0107,Matemática Discreta,73,68,53
+26-0107,Métodos estadísticos,49,67,41
+26-0107,Bases de Datos,69,52,69
+26-0107,Estructura de datos Y Algoritmos ,64,48,59
+26-0108,Programación web,70,85,67
+26-0108,Matemática Discreta,75,91,92
+26-0108,Métodos estadísticos,82,80,71
+26-0108,Bases de Datos,99,72,78
+26-0108,Estructura de datos Y Algoritmos ,87,65,83
+26-0109,Programación web,100,76,95
+26-0109,Matemática Discreta,100,97,98
+26-0109,Métodos estadísticos,71,97,72
+26-0109,Bases de Datos,95,93,88
+26-0109,Estructura de datos Y Algoritmos ,95,99,86
+26-0110,Programación web,72,67,67
+26-0110,Matemática Discreta,92,71,77
+26-0110,Métodos estadísticos,84,65,88
+26-0110,Bases de Datos,87,89,93
+26-0110,Estructura de datos Y Algoritmos ,71,80,73
+26-0111,Programación web,69,74,58
+26-0111,Matemática Discreta,76,70,83
+26-0111,Métodos estadísticos,65,71,72
+26-0111,Bases de Datos,73,70,91
+26-0111,Estructura de datos Y Algoritmos ,57,77,72
+26-0112,Programación web,69,95,98
+26-0112,Matemática Discreta,92,74,100
+26-0112,Métodos estadísticos,68,85,74
+26-0112,Bases de Datos,84,100,95
+26-0112,Estructura de datos Y Algoritmos ,68,84,91
+26-0113,Programación web,70,70,60
+26-0113,Matemática Discreta,50,73,51
+26-0113,Métodos estadísticos,48,51,49
+26-0113,Bases de Datos,68,65,76
+26-0113,Estructura de datos Y Algoritmos ,47,64,64
+26-0114,Programación web,70,50,67
+26-0114,Matemática Discreta,74,64,67
+26-0114,Métodos estadísticos,61,42,39
+26-0114,Bases de Datos,69,47,59
+26-0114,Estructura de datos Y Algoritmos ,56,63,47
+26-0115,Programación web,91,72,83
+26-0115,Matemática Discreta,90,80,86
+26-0115,Métodos estadísticos,94,88,83
+26-0115,Bases de Datos,100,100,96
+26-0115,Estructura de datos Y Algoritmos ,88,79,86
+26-0116,Programación web,91,91,83
+26-0116,Matemática Discreta,76,74,85
+26-0116,Métodos estadísticos,86,66,68
+26-0116,Bases de Datos,74,86,75
+26-0116,Estructura de datos Y Algoritmos ,72,92,76
+26-0117,Programación web,91,67,70
+26-0117,Matemática Discreta,97,73,80
+26-0117,Métodos estadísticos,64,71,64
+26-0117,Bases de Datos,100,84,81
+26-0117,Estructura de datos Y Algoritmos ,83,82,87
+26-0118,Programación web,77,74,87
+26-0118,Matemática Discreta,79,81,82
+26-0118,Métodos estadísticos,66,88,77
+26-0118,Bases de Datos,83,100,74
+26-0118,Estructura de datos Y Algoritmos ,75,87,74
+26-0119,Programación web,92,82,79
+26-0119,Matemática Discreta,100,79,90
+26-0119,Métodos estadísticos,91,90,81
+26-0119,Bases de Datos,76,84,77
+26-0119,Estructura de datos Y Algoritmos ,80,95,94
+26-0120,Programación web,55,66,60
+26-0120,Matemática Discreta,65,58,82
+26-0120,Métodos estadísticos,61,77,76
+26-0120,Bases de Datos,61,60,61
+26-0120,Estructura de datos Y Algoritmos ,68,74,61
+26-0121,Programación web,73,75,79
+26-0121,Matemática Discreta,75,86,83
+26-0121,Métodos estadísticos,81,89,72
+26-0121,Bases de Datos,76,97,84
+26-0121,Estructura de datos Y Algoritmos ,73,93,67
+26-0122,Programación web,63,54,71
+26-0122,Matemática Discreta,65,55,74
+26-0122,Métodos estadísticos,49,56,40
+26-0122,Bases de Datos,67,66,75
+26-0122,Estructura de datos Y Algoritmos ,58,57,51
+26-0123,Programación web,82,79,72
+26-0123,Matemática Discreta,89,68,79
+26-0123,Métodos estadísticos,62,67,62
+26-0123,Bases de Datos,90,73,74
+26-0123,Estructura de datos Y Algoritmos ,62,60,80
+26-0124,Programación web,76,63,55
+26-0124,Matemática Discreta,57,69,54
+26-0124,Métodos estadísticos,59,68,48
+26-0124,Bases de Datos,55,73,56
+26-0124,Estructura de datos Y Algoritmos ,71,66,61
+26-0125,Programación web,45,41,43
+26-0125,Matemática Discreta,50,38,48
+26-0125,Métodos estadísticos,31,38,57
+26-0125,Bases de Datos,63,52,40
+26-0125,Estructura de datos Y Algoritmos ,34,37,35
+26-0126,Programación web,66,59,57
+26-0126,Matemática Discreta,57,71,62
+26-0126,Métodos estadísticos,57,75,71
+26-0126,Bases de Datos,59,65,59
+26-0126,Estructura de datos Y Algoritmos ,64,66,63
+26-0127,Programación web,60,56,49
+26-0127,Matemática Discreta,73,64,56
+26-0127,Métodos estadísticos,59,54,41
+26-0127,Bases de Datos,74,73,54
+26-0127,Estructura de datos Y Algoritmos ,53,51,45
+26-0128,Programación web,76,84,85
+26-0128,Matemática Discreta,98,81,100
+26-0128,Métodos estadísticos,73,69,75
+26-0128,Bases de Datos,83,100,80
+26-0128,Estructura de datos Y Algoritmos ,85,90,76
+26-0129,Programación web,47,47,48
+26-0129,Matemática Discreta,74,49,65
+26-0129,Métodos estadísticos,40,40,45
+26-0129,Bases de Datos,77,60,64
+26-0129,Estructura de datos Y Algoritmos ,57,45,62
+26-0130,Programación web,75,80,65
+26-0130,Matemática Discreta,92,79,79
+26-0130,Métodos estadísticos,59,74,56
+26-0130,Bases de Datos,78,81,68
+26-0130,Estructura de datos Y Algoritmos ,71,66,58
+26-0131,Programación web,71,55,70
+26-0131,Matemática Discreta,65,72,72
+26-0131,Métodos estadísticos,63,47,50
+26-0131,Bases de Datos,67,82,64
+26-0131,Estructura de datos Y Algoritmos ,60,70,68
+26-0132,Programación web,52,50,54
+26-0132,Matemática Discreta,37,47,64
+26-0132,Métodos estadísticos,46,31,47
+26-0132,Bases de Datos,66,46,46
+26-0132,Estructura de datos Y Algoritmos ,34,61,59
+26-0133,Programación web,72,64,71
+26-0133,Matemática Discreta,89,71,86
+26-0133,Métodos estadísticos,63,82,76
+26-0133,Bases de Datos,88,91,71
+26-0133,Estructura de datos Y Algoritmos ,65,83,85
+26-0134,Programación web,67,68,45
+26-0134,Matemática Discreta,44,44,53
+26-0134,Métodos estadísticos,40,61,47
+26-0134,Bases de Datos,70,56,73
+26-0134,Estructura de datos Y Algoritmos ,48,60,61
+26-0135,Programación web,79,62,85
+26-0135,Matemática Discreta,82,75,65
+26-0135,Métodos estadísticos,60,77,67
+26-0135,Bases de Datos,83,70,95
+26-0135,Estructura de datos Y Algoritmos ,66,67,84
+26-0136,Programación web,77,82,67
+26-0136,Matemática Discreta,68,92,75
+26-0136,Métodos estadísticos,61,75,84
+26-0136,Bases de Datos,91,66,95
+26-0136,Estructura de datos Y Algoritmos ,74,61,71
+26-0137,Programación web,69,82,81
+26-0137,Matemática Discreta,85,73,81
+26-0137,Métodos estadísticos,76,78,54
+26-0137,Bases de Datos,83,76,88
+26-0137,Estructura de datos Y Algoritmos ,58,72,56
+26-0138,Programación web,93,73,76
+26-0138,Matemática Discreta,71,96,77
+26-0138,Métodos estadísticos,60,59,80
+26-0138,Bases de Datos,85,94,83
+26-0138,Estructura de datos Y Algoritmos ,63,90,78
+26-0139,Programación web,51,41,47
+26-0139,Matemática Discreta,58,59,66
+26-0139,Métodos estadísticos,42,60,48
+26-0139,Bases de Datos,51,47,55
+26-0139,Estructura de datos Y Algoritmos ,58,56,63
+26-0140,Programación web,49,67,55
+26-0140,Matemática Discreta,64,72,60
+26-0140,Métodos estadísticos,56,55,42
+26-0140,Bases de Datos,71,53,72
+26-0140,Estructura de datos Y Algoritmos ,62,60,59
+26-0141,Programación web,80,62,73
+26-0141,Matemática Discreta,82,85,79
+26-0141,Métodos estadísticos,53,62,67
+26-0141,Bases de Datos,79,66,79
+26-0141,Estructura de datos Y Algoritmos ,67,84,78
+26-0142,Programación web,50,57,59
+26-0142,Matemática Discreta,59,63,60
+26-0142,Métodos estadísticos,56,56,41
+26-0142,Bases de Datos,50,60,52
+26-0142,Estructura de datos Y Algoritmos ,67,52,56
+26-0143,Programación web,100,98,87
+26-0143,Matemática Discreta,100,96,74
+26-0143,Métodos estadísticos,86,87,89
+26-0143,Bases de Datos,100,100,88
+26-0143,Estructura de datos Y Algoritmos ,80,76,91
+26-0144,Programación web,55,47,45
+26-0144,Matemática Discreta,52,63,41
+26-0144,Métodos estadísticos,37,43,50
+26-0144,Bases de Datos,47,59,41
+26-0144,Estructura de datos Y Algoritmos ,45,61,35
+26-0145,Programación web,60,59,79
+26-0145,Matemática Discreta,77,83,88
+26-0145,Métodos estadísticos,63,74,56
+26-0145,Bases de Datos,69,85,75
+26-0145,Estructura de datos Y Algoritmos ,68,78,81
+26-0146,Programación web,85,79,81
+26-0146,Matemática Discreta,82,79,100
+26-0146,Métodos estadísticos,94,79,90
+26-0146,Bases de Datos,81,93,86
+26-0146,Estructura de datos Y Algoritmos ,75,83,99
+26-0147,Programación web,86,89,79
+26-0147,Matemática Discreta,65,66,73
+26-0147,Métodos estadísticos,76,58,67
+26-0147,Bases de Datos,70,80,81
+26-0147,Estructura de datos Y Algoritmos ,72,66,60
+26-0148,Programación web,53,59,57
+26-0148,Matemática Discreta,55,44,66
+26-0148,Métodos estadísticos,61,44,56
+26-0148,Bases de Datos,52,68,57
+26-0148,Estructura de datos Y Algoritmos ,62,63,38
+26-0149,Programación web,75,87,91
+26-0149,Matemática Discreta,84,90,70
+26-0149,Métodos estadísticos,77,81,72
+26-0149,Bases de Datos,96,89,96
+26-0149,Estructura de datos Y Algoritmos ,85,90,70
+26-0150,Programación web,61,62,67
+26-0150,Matemática Discreta,49,57,47
+26-0150,Métodos estadísticos,46,53,47
+26-0150,Bases de Datos,71,52,71
+26-0150,Estructura de datos Y Algoritmos ,61,42,56
+26-0151,Programación web,86,85,87
+26-0151,Matemática Discreta,83,95,83
+26-0151,Métodos estadísticos,84,88,75
+26-0151,Bases de Datos,100,93,83
+26-0151,Estructura de datos Y Algoritmos ,100,87,80
+26-0152,Programación web,82,68,69
+26-0152,Matemática Discreta,82,70,77
+26-0152,Métodos estadísticos,56,51,51
+26-0152,Bases de Datos,79,80,76
+26-0152,Estructura de datos Y Algoritmos ,81,83,61
+26-0153,Programación web,73,47,75
+26-0153,Matemática Discreta,64,75,56
+26-0153,Métodos estadísticos,68,58,51
+26-0153,Bases de Datos,55,66,76
+26-0153,Estructura de datos Y Algoritmos ,59,71,59
+26-0154,Programación web,69,72,78
+26-0154,Matemática Discreta,70,78,89
+26-0154,Métodos estadísticos,73,70,79
+26-0154,Bases de Datos,80,81,90
+26-0154,Estructura de datos Y Algoritmos ,75,75,68
+26-0155,Programación web,98,79,96
+26-0155,Matemática Discreta,86,79,79
+26-0155,Métodos estadísticos,71,92,97
+26-0155,Bases de Datos,100,89,90
+26-0155,Estructura de datos Y Algoritmos ,93,96,92
+26-0156,Programación web,64,74,66
+26-0156,Matemática Discreta,58,85,57
+26-0156,Métodos estadísticos,73,65,66
+26-0156,Bases de Datos,64,74,58
+26-0156,Estructura de datos Y Algoritmos ,75,54,76
+26-0157,Programación web,79,91,99
+26-0157,Matemática Discreta,78,81,87
+26-0157,Métodos estadísticos,82,80,92
+26-0157,Bases de Datos,96,79,82
+26-0157,Estructura de datos Y Algoritmos ,94,76,73
+26-0158,Programación web,69,69,75
+26-0158,Matemática Discreta,62,61,79
+26-0158,Métodos estadísticos,52,61,72
+26-0158,Bases de Datos,67,76,65
+26-0158,Estructura de datos Y Algoritmos ,68,75,82
+26-0159,Programación web,90,93,89
+26-0159,Matemática Discreta,99,97,92
+26-0159,Métodos estadísticos,90,79,87
+26-0159,Bases de Datos,91,78,100
+26-0159,Estructura de datos Y Algoritmos ,70,76,65
+26-0160,Programación web,73,77,63
+26-0160,Matemática Discreta,61,61,74
+26-0160,Métodos estadísticos,75,54,69
+26-0160,Bases de Datos,67,89,83
+26-0160,Estructura de datos Y Algoritmos ,78,57,53
+26-0161,Programación web,83,70,83
+26-0161,Matemática Discreta,69,88,86
+26-0161,Métodos estadísticos,77,73,53
+26-0161,Bases de Datos,70,70,92
+26-0161,Estructura de datos Y Algoritmos ,80,69,77
+26-0162,Programación web,74,70,74
+26-0162,Matemática Discreta,85,67,73
+26-0162,Métodos estadísticos,66,69,54
+26-0162,Bases de Datos,75,73,91
+26-0162,Estructura de datos Y Algoritmos ,72,79,67
+26-0163,Programación web,79,80,99
+26-0163,Matemática Discreta,100,94,83
+26-0163,Métodos estadísticos,91,73,77
+26-0163,Bases de Datos,100,84,100
+26-0163,Estructura de datos Y Algoritmos ,96,92,80
+26-0164,Programación web,68,55,80
+26-0164,Matemática Discreta,81,66,56
+26-0164,Métodos estadísticos,61,54,66
+26-0164,Bases de Datos,59,78,58
+26-0164,Estructura de datos Y Algoritmos ,69,63,60
+26-0165,Programación web,73,71,57
+26-0165,Matemática Discreta,63,73,58
+26-0165,Métodos estadísticos,62,48,56
+26-0165,Bases de Datos,58,65,76
+26-0165,Estructura de datos Y Algoritmos ,55,68,60
+26-0166,Programación web,61,53,82
+26-0166,Matemática Discreta,74,63,60
+26-0166,Métodos estadísticos,72,74,49
+26-0166,Bases de Datos,80,76,79
+26-0166,Estructura de datos Y Algoritmos ,56,60,79
+26-0167,Programación web,45,74,63
+26-0167,Matemática Discreta,74,70,69
+26-0167,Métodos estadísticos,50,63,64
+26-0167,Bases de Datos,59,68,70
+26-0167,Estructura de datos Y Algoritmos ,53,51,59
+26-0168,Programación web,57,61,66
+26-0168,Matemática Discreta,68,68,68
+26-0168,Métodos estadísticos,47,58,51
+26-0168,Bases de Datos,64,72,58
+26-0168,Estructura de datos Y Algoritmos ,75,56,61
+26-0169,Programación web,70,67,62
+26-0169,Matemática Discreta,64,77,75
+26-0169,Métodos estadísticos,55,50,49
+26-0169,Bases de Datos,60,66,71
+26-0169,Estructura de datos Y Algoritmos ,61,67,76
+26-0170,Programación web,68,89,77
+26-0170,Matemática Discreta,85,77,89
+26-0170,Métodos estadísticos,87,83,81
+26-0170,Bases de Datos,90,86,86
+26-0170,Estructura de datos Y Algoritmos ,77,78,83
+26-0171,Programación web,82,74,61
+26-0171,Matemática Discreta,70,78,87
+26-0171,Métodos estadísticos,54,61,69
+26-0171,Bases de Datos,68,74,73
+26-0171,Estructura de datos Y Algoritmos ,85,62,70
+26-0172,Programación web,64,79,76
+26-0172,Matemática Discreta,81,81,70
+26-0172,Métodos estadísticos,67,78,63
+26-0172,Bases de Datos,91,93,84
+26-0172,Estructura de datos Y Algoritmos ,83,73,70
+26-0173,Programación web,73,64,82
+26-0173,Matemática Discreta,78,88,66
+26-0173,Métodos estadísticos,77,71,77
+26-0173,Bases de Datos,81,80,61
+26-0173,Estructura de datos Y Algoritmos ,57,67,67
+26-0174,Programación web,66,61,63
+26-0174,Matemática Discreta,75,68,84
+26-0174,Métodos estadísticos,61,70,77
+26-0174,Bases de Datos,75,69,78
+26-0174,Estructura de datos Y Algoritmos ,67,70,68
+26-0175,Programación web,45,49,54
+26-0175,Matemática Discreta,61,52,56
+26-0175,Métodos estadísticos,42,52,50
+26-0175,Bases de Datos,68,56,54
+26-0175,Estructura de datos Y Algoritmos ,66,59,58
+26-0176,Programación web,62,67,85
+26-0176,Matemática Discreta,92,65,63
+26-0176,Métodos estadísticos,73,71,62
+26-0176,Bases de Datos,66,76,86
+26-0176,Estructura de datos Y Algoritmos ,84,63,75
+26-0177,Programación web,69,59,58
+26-0177,Matemática Discreta,72,80,65
+26-0177,Métodos estadísticos,80,61,82
+26-0177,Bases de Datos,85,75,76
+26-0177,Estructura de datos Y Algoritmos ,80,85,82
+26-0178,Programación web,68,74,84
+26-0178,Matemática Discreta,76,69,70
+26-0178,Métodos estadísticos,75,78,65
+26-0178,Bases de Datos,77,92,89
+26-0178,Estructura de datos Y Algoritmos ,88,73,65
+26-0179,Programación web,83,83,87
+26-0179,Matemática Discreta,70,69,70
+26-0179,Métodos estadísticos,66,71,84
+26-0179,Bases de Datos,79,81,71
+26-0179,Estructura de datos Y Algoritmos ,76,85,86
+26-0180,Programación web,69,61,52
+26-0180,Matemática Discreta,65,58,61
+26-0180,Métodos estadísticos,62,42,52
+26-0180,Bases de Datos,52,65,60
+26-0180,Estructura de datos Y Algoritmos ,57,56,53
+26-0181,Programación web,62,66,72
+26-0181,Matemática Discreta,91,79,68
+26-0181,Métodos estadísticos,61,78,84
+26-0181,Bases de Datos,83,92,75
+26-0181,Estructura de datos Y Algoritmos ,63,67,67
+26-0182,Programación web,40,36,47
+26-0182,Matemática Discreta,40,66,55
+26-0182,Métodos estadísticos,46,44,57
+26-0182,Bases de Datos,63,57,47
+26-0182,Estructura de datos Y Algoritmos ,38,47,57
+26-0183,Programación web,84,90,95
+26-0183,Matemática Discreta,72,69,83
+26-0183,Métodos estadísticos,72,78,75
+26-0183,Bases de Datos,74,80,73
+26-0183,Estructura de datos Y Algoritmos ,84,78,75
+26-0184,Programación web,75,69,87
+26-0184,Matemática Discreta,80,71,83
+26-0184,Métodos estadísticos,64,57,68
+26-0184,Bases de Datos,83,74,92
+26-0184,Estructura de datos Y Algoritmos ,71,79,72
+26-0185,Programación web,62,46,60
+26-0185,Matemática Discreta,65,52,44
+26-0185,Métodos estadísticos,56,36,50
+26-0185,Bases de Datos,63,64,54
+26-0185,Estructura de datos Y Algoritmos ,37,56,66
+26-0186,Programación web,100,100,100
+26-0186,Matemática Discreta,100,100,83
+26-0186,Métodos estadísticos,73,90,72
+26-0186,Bases de Datos,92,100,96
+26-0186,Estructura de datos Y Algoritmos ,86,78,92
+26-0187,Programación web,61,76,76
+26-0187,Matemática Discreta,73,52,50
+26-0187,Métodos estadísticos,62,61,50
+26-0187,Bases de Datos,55,73,70
+26-0187,Estructura de datos Y Algoritmos ,61,64,69
+26-0188,Programación web,94,90,86
+26-0188,Matemática Discreta,93,74,78
+26-0188,Métodos estadísticos,70,86,80
+26-0188,Bases de Datos,98,80,83
+26-0188,Estructura de datos Y Algoritmos ,71,96,71
+26-0189,Programación web,62,60,61
+26-0189,Matemática Discreta,86,73,65
+26-0189,Métodos estadísticos,80,71,77
+26-0189,Bases de Datos,83,81,80
+26-0189,Estructura de datos Y Algoritmos ,76,76,73
+26-0190,Programación web,55,69,83
+26-0190,Matemática Discreta,61,70,82
+26-0190,Métodos estadísticos,53,75,71
+26-0190,Bases de Datos,81,69,84
+26-0190,Estructura de datos Y Algoritmos ,80,76,76
+26-0191,Programación web,83,75,85
+26-0191,Matemática Discreta,79,77,76
+26-0191,Métodos estadísticos,73,70,66
+26-0191,Bases de Datos,85,79,74
+26-0191,Estructura de datos Y Algoritmos ,67,72,82
+26-0192,Programación web,66,84,81
+26-0192,Matemática Discreta,79,89,74
+26-0192,Métodos estadísticos,61,85,75
+26-0192,Bases de Datos,82,81,72
+26-0192,Estructura de datos Y Algoritmos ,78,87,71
+26-0193,Programación web,95,92,95
+26-0193,Matemática Discreta,79,74,95
+26-0193,Métodos estadísticos,73,90,67
+26-0193,Bases de Datos,94,98,80
+26-0193,Estructura de datos Y Algoritmos ,82,73,95
+26-0194,Programación web,71,86,71
+26-0194,Matemática Discreta,94,90,90
+26-0194,Métodos estadísticos,81,86,66
+26-0194,Bases de Datos,86,79,90
+26-0194,Estructura de datos Y Algoritmos ,67,92,81
+26-0195,Programación web,53,45,43
+26-0195,Matemática Discreta,46,66,69
+26-0195,Métodos estadísticos,61,45,41
+26-0195,Bases de Datos,57,71,75
+26-0195,Estructura de datos Y Algoritmos ,56,51,47
+26-0196,Programación web,84,99,74
+26-0196,Matemática Discreta,100,77,100
+26-0196,Métodos estadísticos,78,73,70
+26-0196,Bases de Datos,80,100,96
+26-0196,Estructura de datos Y Algoritmos ,83,92,90
+26-0197,Programación web,65,55,51
+26-0197,Matemática Discreta,45,67,55
+26-0197,Métodos estadísticos,50,50,57
+26-0197,Bases de Datos,67,57,63
+26-0197,Estructura de datos Y Algoritmos ,39,41,67
+26-0198,Programación web,56,60,65
+26-0198,Matemática Discreta,71,61,55
+26-0198,Métodos estadísticos,70,58,68
+26-0198,Bases de Datos,70,67,71
+26-0198,Estructura de datos Y Algoritmos ,62,55,61
+26-0199,Programación web,76,87,70
+26-0199,Matemática Discreta,76,84,79
+26-0199,Métodos estadísticos,65,71,67
+26-0199,Bases de Datos,100,74,90
+26-0199,Estructura de datos Y Algoritmos ,93,92,73
+26-0200,Programación web,51,57,62
+26-0200,Matemática Discreta,67,81,59
+26-0200,Métodos estadísticos,64,60,47
+26-0200,Bases de Datos,72,71,70
+26-0200,Estructura de datos Y Algoritmos ,72,57,51
+26-1901,Programación-AE-1944,7,56,33
+26-1902,Programación-AE-1944,28,44,84
+26-1903,Programación-AE-1944,16,19,30
+26-1904,Programación-AE-1944,12,87,75
+26-1905,Programación-AE-1944,25,14,11
+26-1906,Programación-AE-1944,21,46,70
+26-1907,Programación-AE-1944,57,29,16
+26-1908,Programación-AE-1944,41,67,100
+26-1909,Programación-AE-1944,98,32,69
+26-1910,Programación-AE-1944,32,11,63
+26-1911,Programación-AE-1944,49,93,80
+26-1912,Programación-AE-1944,74,12,83

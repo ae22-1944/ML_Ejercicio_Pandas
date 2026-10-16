@@ -1,0 +1,6 @@
+Python básico (s): [0.0026, 0.002, 0.0022, 0.0021, 0.0023]
+  mediana: 0.0022
+NumPy/Pandas (s): [0.0028, 0.0017, 0.0015, 0.0019, 0.0015]
+  mediana: 0.0017
+
+VERIFICACIÓN: resultados de ambas versiones coinciden ✓
